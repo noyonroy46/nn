@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#heder { width: 100%;
+
+}
+.coentainer { width: 90%;
+    margin: auto;
+
+}
+.logo { width: 25%;
+     background-color: blueviolet;
+    float: left;
+
+}
+.logo img{ width:30%;
+float: left;
+}
+.menu{ width: 45%;
+float: left;
+background-color: aquamarine;
+}
+.search{ width: 20%;
+float: left;
+background-color: brown;
+}
+.hero{
+    width: 50%;
+    margin: auto;
+    float: left;
+}
+.logo2{
+    width: 50%;
+    margin: auto;
+    float: left;
+}
